@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 import pickle
-import matplotlib.pyplot as plt
+
 from sklearn import datasets
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import StandardScaler
